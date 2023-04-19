@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FdzyA6DaNf4Xjh/Tzx2hD/ut0NZJqgSt3ahXyItQEq1LIoD2auTE4f+99Nv5MVZ92Z34yG1mKPubd2wwohXTHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenna\\source\\repos\\ConsoleApp28\\ConsoleApp28\\ConsoleApp28.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenna\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\lenna\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
